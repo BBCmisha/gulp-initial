@@ -3,7 +3,7 @@
 :wrench: Gulp, HTML, SCSS, JS
 
 ## Description
-Convenient __gulp__ assembly for fast web development. With this build you will be developing websites at the speed of light:grin:
+Convenient __gulp__ assembly for fast web development. With this build you will be developing websites at the speed of light:grin:    
 :green_book: List of __gulp__ plugins:
 * gulp-autoprefixer
 * gulp-clean-css
